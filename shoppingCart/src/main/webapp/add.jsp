@@ -39,7 +39,7 @@ button:hover {
 				name="currency"><br>
 			<br> <label> QUANTITY:</label>&nbsp; <input type="number"
 				name="qnt"><br>
-			<br> <label>COLOR:</label>&nbsp
+			<br> <label>COLOR:</label>  &nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="text" name="color"><br>
 			<br> <label> IMAGE:</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			<input type="text" name="img" placeholder="write the image link">
@@ -47,5 +47,6 @@ button:hover {
 			<br>
 			<button>SAVE</button>
 		</form>
+		</fieldset>
 </body>
 </html>
